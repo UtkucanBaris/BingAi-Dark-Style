@@ -16,8 +16,8 @@ This code is a simple script that changes the style of BingAi to a dark theme. I
 To use this code, follow these steps:
 
 1. Open BingAi in your browser and make sure you are logged in.
-2. Press F12 or Ctrl+Shift+I to open developer tools or right click then Inspect.
-3. Click on the console tab and paste "BingAiDarkMode" code:
+2. Press **F12** or **Ctrl+Shift+I** to open developer tools or **right click** then Inspect.
+3. Click on the console tab and paste **"BingAiDarkMode"** code:
 4. Press Enter to run the code and see the changes.
 5. If you want to revert to the original theme, refresh the page or close the tab.
 
