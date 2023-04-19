@@ -1,7 +1,10 @@
 # BingAi-Dark-Style
 BingAi Dark Style Js Code
+
 Author: Utkucan
+
 Date: 19/04/2023
+
 This Code Works At this Date
 
 
