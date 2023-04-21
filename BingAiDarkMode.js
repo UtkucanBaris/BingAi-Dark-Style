@@ -6,8 +6,12 @@
 document.querySelector("#b_sydConvCont > cib-serp").shadowRoot.querySelector("cib-background").shadowRoot.querySelector("div:nth-child(1)").remove();
 document.querySelector("#b_sydConvCont > cib-serp").shadowRoot.querySelector("cib-background").shadowRoot.querySelector("div:nth-child(1)").remove();
 document.querySelector("#b_sydConvCont > cib-serp").shadowRoot.querySelector("cib-background").style.backgroundColor="black";
-document.querySelector("#b_sydConvCont > cib-serp").shadowRoot.querySelector("#cib-conversation-main").shadowRoot.querySelector("div.scroller > div.fade.top").remove()
-document.querySelector("#b_sydConvCont > cib-serp").shadowRoot.querySelector("#cib-conversation-main").shadowRoot.querySelector("div.scroller > div.fade.bottom").remove()
+document.querySelector("#b_sydConvCont > cib-serp").shadowRoot.querySelector("#cib-conversation-main").shadowRoot.querySelector("div.scroller.scroller-enabled > div.fade.top > cib-background").shadowRoot.querySelector("div:nth-child(1)").setAttribute("style","background-position: 50% 0%;background: black;")
+document.querySelector("#b_sydConvCont > cib-serp").shadowRoot.querySelector("#cib-conversation-main").shadowRoot.querySelector("div.scroller.scroller-enabled > div.fade.top > cib-background").shadowRoot.querySelector("div:nth-child(2)").setAttribute("style","background-position: 50% 0%;background: black;")
+document.querySelector("#b_sydConvCont > cib-serp").shadowRoot.querySelector("#cib-conversation-main").shadowRoot.querySelector("div.scroller.scroller-enabled > div.fade.bottom > cib-background").shadowRoot.querySelector("div:nth-child(1)").setAttribute("style","background-position: 50% 0%;background: black;")
+document.querySelector("#b_sydConvCont > cib-serp").shadowRoot.querySelector("#cib-conversation-main").shadowRoot.querySelector("div.scroller.scroller-enabled > div.fade.bottom > cib-background").shadowRoot.querySelector("div:nth-child(2)").setAttribute("style","background-position: 50% 0%;background: black;")
+// document.querySelector("#b_sydConvCont > cib-serp").shadowRoot.querySelector("#cib-conversation-main").shadowRoot.querySelector("div.scroller > div.fade.top").remove()
+// document.querySelector("#b_sydConvCont > cib-serp").shadowRoot.querySelector("#cib-conversation-main").shadowRoot.querySelector("div.scroller > div.fade.bottom").remove()
 var styleElement = document.createElement("style");
 styleElement.type = "text/css";
 styleElement.appendChild(document.createTextNode(".b_scopebar, .b_scopebar a, .b_scopebar a:visited, .id_button, .id_button:visited {color: white !important;}"));
