@@ -5,8 +5,28 @@
 **Date:** 19/04/2023
 
 **Note:** This Code Works At this Date
+<!-- ![image](https://user-images.githubusercontent.com/95386727/233864811-364625af-fad4-4341-87eb-b089bbc0a189.png) -->
+<!-- ![image](https://user-images.githubusercontent.com/95386727/233109955-c548bd2b-b6f2-4b78-ab3f-7eae1b311cda.png) -->
 
-![image](https://user-images.githubusercontent.com/95386727/233109955-c548bd2b-b6f2-4b78-ab3f-7eae1b311cda.png)
+<table width="100%">
+
+<tr>
+
+  <td width="50%" align="center"><b>Normal Colors </b></td>
+
+  <td width="50%" align="center"><b>Dark Style</b></td>
+
+</tr>
+
+<tr>
+
+<td width="50%"><img src="https://user-images.githubusercontent.com/95386727/233864811-364625af-fad4-4341-87eb-b089bbc0a189.png" alt="White Mode" width="100%"/></td>
+
+<td width="50%"><img src="https://user-images.githubusercontent.com/95386727/233109955-c548bd2b-b6f2-4b78-ab3f-7eae1b311cda.png" alt="Dark Mode" width="100%"/></td>
+
+</tr>
+
+</table>
 
 BingAi Dark Style Js Code is a script that allows you to change the appearance of Bing search results to a dark theme. It is inspired by the popular dark mode feature of many websites and apps. To use this code, you need to open the developer tools of your browser and paste it in the console. This will apply the dark style to the current page and any subsequent pages you visit on Bing. You can also save the code as a bookmarklet and run it whenever you want to switch to the dark theme.
 
